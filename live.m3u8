@@ -168,9 +168,6 @@ http://178.128.21.207:1234/stream/new/techstorm/master.m3u8?u=donald&p=03ac67421
 #EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Teleradyo Serbisyo
 http://178.128.21.207:1234/stream/new/teleradyoserbisyo/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",gg na HAHA
-http://178.128.21.207:1234/stream/new/testnotworkingdontplaythis/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
-
 #EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",The Filipino Channel (TFC)
 http://178.128.21.207:1234/stream/new/thefilipinochanneltfc/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
