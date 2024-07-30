@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOT FOR SALE!" tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="FREE IPTV BY: J-BMC🇵🇭",NOT FOR SALE!
 http://178.128.21.207:1234/stream/new/tv5/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A2Z" tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",A2Z
